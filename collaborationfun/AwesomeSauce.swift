@@ -12,6 +12,7 @@ struct AwesomeSauce: View {
         Text("Mayonnaise")
         Text("Ketchup")
         Text("Mustard")
+        Text("Relish is not a sauce. Don't even think about it.")
     }
 }
 
